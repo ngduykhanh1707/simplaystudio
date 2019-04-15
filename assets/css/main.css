@@ -2684,8 +2684,14 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
+					.articleTitle {
+						background-color: #00000080;
+						border-radius: 0.4em;
+						padding: 0 0.5em 0 1em;
+					}
+
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				/*background-color: #f2849e;*/
 			}
 
 			.tiles article.style2 > .image:before {
