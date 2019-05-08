@@ -72,6 +72,19 @@ input, select, textarea {
 	appearance: none;
 }
 
+	.apple-store {
+		content: url('apple-store-badge.png');
+		width: auto;
+		height: 50px;
+		border: 0;
+	}
+	.google-play {
+		content: url('google-play-badge.png');
+		width: auto;
+		height: 50px;
+		border: 0;
+	}
+
 /* Basic */
 
 	@-ms-viewport {
