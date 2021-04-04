@@ -3,3 +3,8 @@ Knife Game Finger$https://bluedotgame.com/images/knifegame.png$com.bluedot.knife
 Egg Dunk$https://bluedotgame.com/images/eggdunkicon512.png$com.bluedot.eggdunk$1459262316$https://bluedotgame.com/eggdunk.html
 Cowboy Shooting$https://bluedotgame.com/images/cowboygunshooting512.png$com.bluedot.cowboygunshooting$1541522775$https://bluedotgame.com/cowboygunshooting.html
 Protect Island$https://bluedotgame.com/images/protectislandicon512.png$ccom.bluedot.protectisland$_$https://bluedotgame.com/protectisland.html
+Basketball Mini$https://bluedotgame.com/images/basketball.png$com.bluedot.basketball.mini$1473843389$https://bluedotgame.com/basketball.html
+Knife Game Finger$https://bluedotgame.com/images/knifegame.png$com.bluedot.knifegame$1508878493$https://bluedotgame.com/knifegame.html
+Egg Dunk$https://bluedotgame.com/images/eggdunkicon512.png$com.bluedot.eggdunk$1459262316$https://bluedotgame.com/eggdunk.html
+Cowboy Shooting$https://bluedotgame.com/images/cowboygunshooting512.png$com.bluedot.cowboygunshooting$1541522775$https://bluedotgame.com/cowboygunshooting.html
+Protect Island$https://bluedotgame.com/images/protectislandicon512.png$ccom.bluedot.protectisland$_$https://bluedotgame.com/protectisland.html
