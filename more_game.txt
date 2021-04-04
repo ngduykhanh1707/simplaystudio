@@ -1,4 +1,5 @@
-Basketball Mini$https://bluedotgame.com/images/basketball.png
-Knife Game Finger$https://bluedotgame.com/images/knifegame.png
-Egg Dunk$https://bluedotgame.com/images/eggdunkicon512.png
-Cowboy Shooting$https://bluedotgame.com/images/cowboygunshooting512.png
+Basketball Mini$https://bluedotgame.com/images/basketball.png$com.bluedot.basketball.mini$1473843389
+Knife Game Finger$https://bluedotgame.com/images/knifegame.png$com.bluedot.knifegame$1508878493
+Egg Dunk$https://bluedotgame.com/images/eggdunkicon512.png$com.bluedot.eggdunk$1459262316
+Cowboy Shooting$https://bluedotgame.com/images/cowboygunshooting512.png$com.bluedot.cowboygunshooting$1541522775
+Protect Island$https://bluedotgame.com/images/protectislandicon512.png$ccom.bluedot.protectisland$_
