@@ -2353,11 +2353,18 @@ input, select, textarea {
 			margin: 0 0 3em 0;
 			width: 100%;
 		}
+		.image.item {
+			display: block;
+			margin: 0 0 0em 0;
+			width: 50px;
+		}
 
 			.image.main img {
 				width: 100%;
 			}
-
+			.image.item img {
+				width: 100%;
+			}
 			@media screen and (max-width: 736px) {
 
 				.image.main {
