@@ -7,5 +7,3 @@ Protect Island$https://bluedotgame.com/thumbs/protectisland.png$com.bluedot.prot
 Twin Fly$https://bluedotgame.com/thumbs/twinfly.png$com.bluedot.twinfly$1462581286$https://bluedotgame.com/twinfly.html
 Bamboo Dancing$https://bluedotgame.com/thumbs/bamboodancing.png$com.bluedot.bamboodancing$1503977442$https://bluedotgame.com/bamboodancing.html
 Duck Hunter$https://bluedotgame.com/thumbs/duckhunter.png$com.bluedot.duckhunter$1465901420$https://bluedotgame.com/duckhunter.html
-Hero Jump$https://bluedotgame.com/thumbs/herojump.png$com.bluedot.herojump$1468857188$https://bluedotgame.com/herojump.html
-Flappy Man$https://bluedotgame.com/thumbs/flappyman.png$com.bluedot.flappyhero$1484261055$https://bluedotgame.com/flappyman.html
