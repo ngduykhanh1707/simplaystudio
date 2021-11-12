@@ -3383,6 +3383,14 @@ input, select, textarea {
     margin-left: 1em;
 	vertical-align: top;
 	margin-top: 0.5em;
+	width: 50%;
+}
+
+@media screen and (max-width: 480px) {
+
+	.app-info {
+		width: 100%;
+	}
 
 }
 .app-title {
