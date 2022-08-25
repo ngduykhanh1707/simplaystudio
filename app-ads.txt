@@ -90,3 +90,4 @@ telaria.com, rwd19-1618181, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1618181, RESELLER, 1a4e959a1b50034a
 exchange.admazing.co, AM3, RESELLER
 meitu.com, 282, RESELLER
+google.com, pub-7266356405174793, DIRECT, f08c47fec0942fa0
